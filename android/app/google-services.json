@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "611562218244",
+    "firebase_url": "https://dailyhistory-7a7c3.firebaseio.com",
+    "project_id": "dailyhistory-7a7c3",
+    "storage_bucket": "dailyhistory-7a7c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611562218244:android:68ba80fcf6da8d7c48e651",
+        "android_client_info": {
+          "package_name": "com.michaelboutov.dailyhistory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611562218244-43vmb3mecmt12tttp4q2jlqqo2v5bh82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGDFKxKK_cPW5J4YPXdCRegyc4KKIfrYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611562218244-43vmb3mecmt12tttp4q2jlqqo2v5bh82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
